@@ -1,10 +1,12 @@
 # Windows 10 Light Theme for Battery Bar
 
-<p align="center">
+<p align="left">
   <img src="./Screenshots/BatteryStatuses.jpg">
 </p>
 
-The theme was created to match the design of Windows 10 system.
+> The theme was created to match the design of Windows 10 system.
+
+Use it for a horizontal taskbar.
 
 Battery sizes:
 
