@@ -6,6 +6,8 @@
 
 > The theme was created to match the design of Windows 10 system.
 
+For `Dark Theme` see [this](https://github.com/dyakovk/batterybar-theme-w10-dark)
+
 Use it for a horizontal taskbar.
 
 Battery sizes:
